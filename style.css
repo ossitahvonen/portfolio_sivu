@@ -122,6 +122,7 @@ position: absolute;
 #title {
     background: url("imgs/DSC01011.JPG") no-repeat center center fixed;
     background-size: cover;
+}
  #titletext{
       position: absolute;
   top: 40%;
