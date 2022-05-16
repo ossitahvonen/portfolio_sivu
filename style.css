@@ -120,9 +120,14 @@ position: absolute;
     background-size: cover;
 }
 #title {
-    background: url("imgs/DSC01011.JPG") no-repeat center center fixed;
+    background: url("
+        imgs/DSC01011.JPG") no-repeat center center fixed;
 
     background-size: cover;
+ #titletext{
+      position: absolute;
+  top: 40%;
+  left: 30;
 }
 #contact {
   background: url("imgs/DSC01151.JPG") no-repeat center center fixed;
