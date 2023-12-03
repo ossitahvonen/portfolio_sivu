@@ -198,6 +198,9 @@ position: absolute;
 #title {
     background: url('imgs/DSC03219_04.jpg') no-repeat center center fixed;
     background-size: cover;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
  #titletext{
       position: absolute;
