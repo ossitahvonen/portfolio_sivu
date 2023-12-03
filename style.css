@@ -139,7 +139,7 @@ position: absolute;
 .subtitle{
     position: absolute;
   left: 0;
-  text-align: center;
+  text-align: left;
   font-size: 15px;
   display: flex;
   left: 10%;
@@ -153,7 +153,7 @@ position: absolute;
 .paper_title{
     position: absolute;
   left: 0;
-  text-align: center;
+  text-align: left;
   font-size: 12px;
   display: flex;
   left: 10%;
