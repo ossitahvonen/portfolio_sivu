@@ -268,7 +268,7 @@ position: absolute;
 
   
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:850px) {
     /* For mobile phones: */
     .body {
       width: 100%;
@@ -281,7 +281,7 @@ position: absolute;
         font-size: 200%;
     }
     .maintext{
-        font-size: 60%;
+        font-size: 75%;
     }
     .portrait{
         width: 20%;
