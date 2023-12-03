@@ -49,36 +49,6 @@ font-weight: normal;
 .fa:hover {
   opacity: 0.7;
 }
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 40%;
-}
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 45%;
-}
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-}
-.fa-envelope {
-  background: #007bb5;
-  color: white;
-  position: absolute;
-  top: 50%;
-  left: 55%;
-}
-
 
 .main_section {
     width: 100%;
