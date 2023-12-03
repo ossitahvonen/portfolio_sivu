@@ -165,7 +165,23 @@ position: absolute;
     font-weight: normal;
 }
 
+.background-section {
+            background-image: url('your-image.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+            background-size: cover;
+            background-position: center;
+            height: 100vh; /* Adjust the height as needed */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
 
+        .content-box {
+            background-color: rgba(255, 255, 255, 0.8); /* Adjust the alpha value for transparency */
+            padding: 20px;
+            border-radius: 10px;
+        }
 
 
 
