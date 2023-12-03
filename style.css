@@ -239,10 +239,13 @@ position: absolute;
 
 @media only screen and (max-width:768px) {
     /* For mobile phones: */
-    .body {
-      width: 100%;
-      height: 100%;
+
+    body {
+        width: 100%;
+        height: 100%;
     }
+    /* Other responsive styles */
+}
     .slider{
         width: 80%;
     }
