@@ -5,8 +5,10 @@ html, body {
 font-style: normal;
 font-weight: normal;
   }
-#footer1{
-  background-color: #000000;);
+#footer1 {
+  background-color: #ffffff; /* Set the background color to white */
+  color: #000000; /* Set the text color to black */
+  padding: 20px; /* Add padding for better spacing */
 }
 
 .portrait {
