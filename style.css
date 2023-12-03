@@ -17,7 +17,7 @@ font-weight: normal;
     height: 60%;
     position: absolute;
     right: 0;
-    top: 40%;
+    top: 5%;
     background-color: lightgray;
     border-radius: 20px; /* Adjust the border-radius value for the desired level of rounding */
 }
