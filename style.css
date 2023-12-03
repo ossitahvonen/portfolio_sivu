@@ -17,7 +17,7 @@ font-weight: normal;
     height: 60%;
     position: absolute;
     right: 0;
-    top: 10%; /* Adjust the top value to move the box closer to the top */
+    top: 5%; /* Adjust the top value to move the box closer to the top */
     background-color: lightgray;
     border-radius: 10px; /* Adjust the border-radius value for the desired level of rounding */
     overflow: hidden; /* Ensure the rounded corners are applied to the image */
