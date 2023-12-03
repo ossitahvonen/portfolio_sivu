@@ -166,7 +166,7 @@ position: absolute;
 }
 
 .background-section {
-            background-image: url('imgs/DSC03219_04.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+            background-image: url("imgs/DSC01011.JPG"); /* Replace 'your-image.jpg' with the path to your image */
             background-size: cover;
             background-position: center;
             height: 100vh; /* Adjust the height as needed */
@@ -206,7 +206,7 @@ position: absolute;
     background-size: cover;
 }
 #title {
-    background: url("imgs/DSC01011.JPG") no-repeat center center fixed;
+    background: url('imgs/DSC03219_04.jpg') no-repeat center center fixed;
     background-size: cover;
 }
  #titletext{
