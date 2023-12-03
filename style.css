@@ -15,10 +15,11 @@ font-weight: normal;
     display: inline-block;
     width: 20%;
     height: 60%;
-    position:absolute;
+    position: absolute;
     right: 0;
     top: 40%;
     background-color: lightgray;
+    border-radius: 20px; /* Adjust the border-radius value for the desired level of rounding */
 }
 .portrait img{
     width: 100%;
