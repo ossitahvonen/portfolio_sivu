@@ -85,6 +85,9 @@ font-weight: normal;
     height: 100%;
     position:relative;
     text-align:center
+    background-size: cover; /* or background-size: contain; */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
 }
 .bigtext1{
 position: absolute;
@@ -278,7 +281,7 @@ position: absolute;
         font-size: 200%;
     }
     .maintext{
-        font-size: 50%;
+        font-size: 60%;
     }
     .portrait{
         width: 20%;
