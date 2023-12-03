@@ -204,6 +204,8 @@ position: absolute;
   justify-content: center;
   text-align: center;
   color: white;
+background: url("imgs/DSC03219_04.jpg") no-repeat center center fixed;
+
 }
 
 #title .background {
