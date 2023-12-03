@@ -195,12 +195,35 @@ position: absolute;
     background: url("imgs/DSC02316.jpg") no-repeat center center fixed;
     background-size: cover;
 }
+
 #title {
-    background: url('imgs/DSC03219_04.jpg') no-repeat center center fixed;
-    background-size: cover;
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+#title .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("imgs/your-background-image.jpg");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  z-index: -1;
+}
+
+#title .content-box {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  width: 65%;
+  color: black;
+  border-radius: 10px;
 }
  #titletext{
       position: absolute;
