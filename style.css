@@ -236,6 +236,9 @@ position: absolute;
   top: 40%;
   left: 30;
 }
+#publications{
+    font-size: 14px;
+}
 .logobig {
   display: inline-block;
   width: 20%;
